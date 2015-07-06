@@ -1,0 +1,16 @@
+{
+  "name": "multivision",
+  "version": "0.0.0",
+  "authors": [
+    "Haven.Ramos <havster09@gmail.com>"
+  ],
+  "description": "ETT",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "toastr": "~2.1.1",
+    "angular-resource": "~1.4.1",
+    "angular-route": "~1.4.1"
+  }
+}
