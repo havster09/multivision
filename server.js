@@ -30,5 +30,5 @@ app.get('*',function(req,res){
 var port = 3030;
 
 app.listen(port,function(){
-   console.log('listening to dfgdfgdfg '+port);
+   console.log('listening to '+port);
 });
